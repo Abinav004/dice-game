@@ -24,3 +24,16 @@ body{
     background-color: #021526;
 }
 
+@media (max-width: 1090px) {
+    .dice{
+        display: block;
+        margin: 5px;
+    }
+
+    .container{
+        font-size: 1rem;
+    }
+    
+}
+
+
